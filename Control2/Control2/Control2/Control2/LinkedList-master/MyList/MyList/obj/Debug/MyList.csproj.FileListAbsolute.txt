@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\ILYA\MyList\MyList\bin\Debug\MyList.exe.config
+C:\Users\Student\Documents\ILYA\MyList\MyList\bin\Debug\MyList.exe
+C:\Users\Student\Documents\ILYA\MyList\MyList\bin\Debug\MyList.pdb
+C:\Users\Student\Documents\ILYA\MyList\MyList\obj\Debug\MyList.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\ILYA\MyList\MyList\obj\Debug\MyList.exe
+C:\Users\Student\Documents\ILYA\MyList\MyList\obj\Debug\MyList.pdb

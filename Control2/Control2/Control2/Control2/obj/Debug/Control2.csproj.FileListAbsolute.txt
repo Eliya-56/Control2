@@ -1,0 +1,17 @@
+c:\users\student\documents\visual studio 2015\Projects\Control2\Control2\bin\Debug\Control2.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Control2\Control2\obj\Debug\Control2.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Control2\Control2\bin\Debug\Control2.exe
+c:\users\student\documents\visual studio 2015\Projects\Control2\Control2\bin\Debug\Control2.pdb
+c:\users\student\documents\visual studio 2015\Projects\Control2\Control2\bin\Debug\MyList.exe
+c:\users\student\documents\visual studio 2015\Projects\Control2\Control2\bin\Debug\MyList.pdb
+c:\users\student\documents\visual studio 2015\Projects\Control2\Control2\obj\Debug\Control2.exe
+c:\users\student\documents\visual studio 2015\Projects\Control2\Control2\obj\Debug\Control2.pdb
+C:\Users\Администратор\Desktop\C#\projects\Control2-master\Control2\Control2\bin\Debug\Control2.exe.config
+C:\Users\Администратор\Desktop\C#\projects\Control2-master\Control2\Control2\bin\Debug\Control2.exe
+C:\Users\Администратор\Desktop\C#\projects\Control2-master\Control2\Control2\bin\Debug\Control2.pdb
+C:\Users\Администратор\Desktop\C#\projects\Control2-master\Control2\Control2\bin\Debug\MyList.exe
+C:\Users\Администратор\Desktop\C#\projects\Control2-master\Control2\Control2\bin\Debug\MyList.pdb
+C:\Users\Администратор\Desktop\C#\projects\Control2-master\Control2\Control2\bin\Debug\MyList.exe.config
+C:\Users\Администратор\Desktop\C#\projects\Control2-master\Control2\Control2\obj\Debug\Control2.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\C#\projects\Control2-master\Control2\Control2\obj\Debug\Control2.exe
+C:\Users\Администратор\Desktop\C#\projects\Control2-master\Control2\Control2\obj\Debug\Control2.pdb
